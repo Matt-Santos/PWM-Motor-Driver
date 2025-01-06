@@ -1,0 +1,24 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 174 63 -146 -69
+RECTANGLE Normal 80 26 -72 -33
+TEXT -68 -17 Left 2 Wien Bridge
+TEXT -52 8 Left 2 Oscilator
+PIN 176 0 RIGHT 8
+PINATTR PinName Output
+PINATTR SpiceOrder 1
+PIN -144 0 LEFT 8
+PINATTR PinName GND
+PINATTR SpiceOrder 2
+PIN -144 48 LEFT 8
+PINATTR PinName Vee
+PINATTR SpiceOrder 3
+PIN -144 -48 LEFT 8
+PINATTR PinName Vcc
+PINATTR SpiceOrder 4
+PIN 48 64 BOTTOM 8
+PINATTR PinName R-
+PINATTR SpiceOrder 5
+PIN 160 64 BOTTOM 8
+PINATTR PinName R+
+PINATTR SpiceOrder 6

@@ -1,0 +1,24 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 159 65 -160 -71
+RECTANGLE Normal 90 23 -69 -30
+TEXT -67 -13 Left 2 Triange Wave
+TEXT -47 9 Left 2 Generator
+PIN -160 0 LEFT 8
+PINATTR PinName Output
+PINATTR SpiceOrder 1
+PIN 160 -48 RIGHT 8
+PINATTR PinName Vcc
+PINATTR SpiceOrder 2
+PIN 160 0 RIGHT 8
+PINATTR PinName GND
+PINATTR SpiceOrder 3
+PIN 160 48 RIGHT 8
+PINATTR PinName Vee
+PINATTR SpiceOrder 4
+PIN -112 64 BOTTOM 8
+PINATTR PinName Ra+
+PINATTR SpiceOrder 5
+PIN -16 64 BOTTOM 8
+PINATTR PinName Ra-
+PINATTR SpiceOrder 6

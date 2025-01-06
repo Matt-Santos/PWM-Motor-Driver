@@ -1,0 +1,14 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 37 18 -39 -17
+CIRCLE Normal 82 80 -81 -79
+TEXT -1 0 Center 2 Motor
+PIN -80 0 LEFT 8
+PINATTR PinName A
+PINATTR SpiceOrder 1
+PIN 0 -80 TOP 8
+PINATTR PinName B
+PINATTR SpiceOrder 2
+PIN 0 80 BOTTOM 8
+PINATTR PinName C
+PINATTR SpiceOrder 3

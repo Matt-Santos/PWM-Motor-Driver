@@ -1,0 +1,17 @@
+Circuit: * C:\Users\Msoul\Desktop\Analogue Project\Final Simulations\Complete_Design(AC).asc
+
+WARNING: Less than two connections to node N009.  This node is used by S:U2:1.
+WARNING: Less than two connections to node PIN1.  This node is used by Q1.
+WARNING: Less than two connections to node PIN2.  This node is used by Q2.
+WARNING: Less than two connections to node PIN3.  This node is used by Q3.
+WARNING: Less than two connections to node PIN6.  This node is used by Q4.
+WARNING: Less than two connections to node PIN5.  This node is used by Q5.
+WARNING: Less than two connections to node PIN4.  This node is used by Q6.
+Per .tran options, skipping operating point for transient analysis.
+.step rb=1
+.step rb=501
+.step rb=1001
+.step rb=1501
+.step rb=2001
+.step rb=2501
+.step rb=3001
